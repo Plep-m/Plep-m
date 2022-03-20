@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 **My Stats 📈**</br>
 <img src="https://github-readme-stats.vercel.app/api?username=Plep-m&&show_icons=true&title_color=ffffff&icon_color=00FF04&text_color=daf7dc&bg_color=151515">
 
-**Recent commit on project :**</br>
+**Currently working on**</br>
 # ![logo](https://community.trinitycore.org/public/style_images/1_trinitycore.png) TrinityCore
