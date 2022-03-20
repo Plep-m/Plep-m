@@ -1,4 +1,5 @@
-### Hi there 👋
+**I Learn 📚**</br>
+[![C++](https://i.imgur.com/Ao2P8iG.png)](https://isocpp.org/) [![Python](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true)](https://www.python.org/) ![MySQL](https://github.com/Plep-m/logo-badge-images/blob/master/img/mysql-64px.png)</br>
 
 <!--
 **warscraft360/warscraft360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
+
+**My Stats 📈**</br>
 <img src="https://github-readme-stats.vercel.app/api?username=Plep-m&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
