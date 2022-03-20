@@ -1,5 +1,5 @@
 **I Learn 📚**</br>
-[![C++](https://i.imgur.com/Ao2P8iG.png)](https://isocpp.org/) [![Python](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true)](https://www.python.org/) ![MySQL](https://github.com/Plep-m/logo-badge-images/blob/master/img/mysql-64px.png)</br>
+[![C++](https://i.imgur.com/Ao2P8iG.png)](https://isocpp.org/) ![Javascript](https://github.com/Plep-m/logo-badge-images/blob/master/img/js-logo-64px.png) [![Python](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true)](https://www.python.org/) ![MySQL](https://github.com/Plep-m/logo-badge-images/blob/master/img/mysql-64px.png)</br>
 
 <!--
 **warscraft360/warscraft360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
