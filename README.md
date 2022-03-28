@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 **My Stats 📈**</br>
-<img src="https://github-readme-stats.vercel.app/api?username=Plep-m&&show_icons=true&title_color=ffffff&icon_color=00FF04&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=Plep-m&&show_icons=true&title_color=ffffff&icon_color=00FF04&text_color=daf7dc&bg_color=151515"><br>
+<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=Plep-m&theme=gruvbox_duo&background=0D1117&hide_border=true&ring=F0DB4F&currStreakLabel=F0DB4F&sideNums=F0DB4F&currStreakNum=F0DB4F&sideLabels=F0DB4F" height="200px" /></a>
 
 **Currently working on**</br>
 # ![logo](https://community.trinitycore.org/public/style_images/1_trinitycore.png) TrinityCore
